@@ -1,0 +1,20 @@
+import { dataToExecData, ExecArgBase, } from '../ExecArgBase';
+/**
+ * @category Contract Exec Arguments
+ */
+export default class ExecArgCW20Transfer extends ExecArgBase {
+    static fromJSON(params) {
+        return new ExecArgCW20Transfer(params);
+    }
+    toData() {
+        const { params } = this;
+        return {
+            recipient: params.recipient,
+            amount: params.amount,
+        };
+    }
+    toExecData() {
+        return dataToExecData('transfer', this.toData());
+    }
+}
+//# sourceMappingURL=ExecArgCW20Transfer.js.map

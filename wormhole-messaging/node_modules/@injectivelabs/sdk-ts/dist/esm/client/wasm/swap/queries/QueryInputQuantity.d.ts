@@ -1,0 +1,12 @@
+import { BaseWasmQuery } from '../../BaseWasmQuery';
+export declare namespace QueryInputQuantityArg {
+    interface Params {
+        toQuantity: string;
+        sourceDenom: string;
+        targetDenom: string;
+    }
+}
+export declare class QueryInputQuantity extends BaseWasmQuery<QueryInputQuantityArg.Params> {
+    toPayload(): string;
+}
+//# sourceMappingURL=QueryInputQuantity.d.ts.map

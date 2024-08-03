@@ -1,0 +1,1 @@
+{"version":3,"file":"WalletException.js","sourceRoot":"","sources":["../../../src/exceptions/WalletException.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAE,MAAM,cAAc,CAAA;AAEhD,MAAM,OAAO,eAAgB,SAAQ,iBAAiB;IAC7C,UAAU,GAAW,iBAAiB,CAAA;CAC9C"}

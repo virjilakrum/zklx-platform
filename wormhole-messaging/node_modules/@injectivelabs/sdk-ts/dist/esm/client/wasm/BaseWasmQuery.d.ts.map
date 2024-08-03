@@ -1,0 +1,1 @@
+{"version":3,"file":"BaseWasmQuery.d.ts","sourceRoot":"","sources":["../../../../src/client/wasm/BaseWasmQuery.ts"],"names":[],"mappings":"AAAA,8BAAsB,aAAa,CAAC,MAAM;IACxC,MAAM,EAAE,MAAM,CAAA;gBAEF,MAAM,EAAE,MAAM;aAIV,SAAS,IAAI,MAAM;CACpC"}

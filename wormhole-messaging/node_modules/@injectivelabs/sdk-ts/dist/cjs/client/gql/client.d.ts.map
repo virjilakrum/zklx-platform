@@ -1,0 +1,1 @@
+{"version":3,"file":"client.d.ts","sourceRoot":"","sources":["../../../../src/client/gql/client.ts"],"names":[],"mappings":"AAUA;;GAEG;AACH,qBAAa,cAAc;IACzB,OAAO,CAAC,YAAY,CAAqC;gBAE7C,eAAe,EAAE,MAAM;IAa7B,iBAAiB,CAAC,OAAO,EAAE,MAAM;IAiBjC,uBAAuB,CAAC,OAAO,EAAE,MAAM,EAAE,SAAS,EAAE,MAAM;CAejE"}

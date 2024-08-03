@@ -1,0 +1,3 @@
+import { InjectiveOracleV1Beta1Oracle, } from '@injectivelabs/core-proto-ts';
+export const OracleTypeMap = InjectiveOracleV1Beta1Oracle.OracleType;
+//# sourceMappingURL=insurance.js.map

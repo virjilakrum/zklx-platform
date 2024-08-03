@@ -1,0 +1,1 @@
+{"version":3,"file":"StargateClient.d.ts","sourceRoot":"","sources":["../../../../src/core/stargate/StargateClient.ts"],"names":[],"mappings":"AAAA,OAAO,EACL,OAAO,EACP,cAAc,IAAI,oBAAoB,EAEvC,MAAM,kBAAkB,CAAA;AAGzB,qBAAa,cAAe,SAAQ,oBAAoB;IACzC,UAAU,CAAC,aAAa,EAAE,MAAM,GAAG,OAAO,CAAC,OAAO,GAAG,IAAI,CAAC;CAyBxE"}

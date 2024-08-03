@@ -1,0 +1,1 @@
+{"version":3,"file":"ChainRestClient.d.ts","sourceRoot":"","sources":["../../../../src/client/chain/ChainRestClient.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,yBAAyB,CAAA;AAE1D;;;GAGG;AACH,qBAAa,eAAe;IAC1B,IAAI,EAAE,gBAAgB,CAAA;gBAEV,QAAQ,EAAE,MAAM;CAG7B"}

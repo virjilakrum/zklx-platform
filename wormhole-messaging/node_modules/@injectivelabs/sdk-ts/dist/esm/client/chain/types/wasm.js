@@ -1,0 +1,3 @@
+import { CosmwasmWasmV1Types, } from '@injectivelabs/core-proto-ts';
+export const ContractCodeHistoryOperationTypeMap = CosmwasmWasmV1Types.ContractCodeHistoryOperationType;
+//# sourceMappingURL=wasm.js.map

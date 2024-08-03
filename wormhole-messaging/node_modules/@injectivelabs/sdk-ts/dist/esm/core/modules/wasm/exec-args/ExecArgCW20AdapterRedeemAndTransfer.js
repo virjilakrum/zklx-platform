@@ -1,0 +1,19 @@
+import { dataToExecData, ExecArgBase, } from '../ExecArgBase';
+/**
+ * @category Contract Exec Arguments
+ */
+export default class ExecArgCW20AdapterRedeemAndTransfer extends ExecArgBase {
+    static fromJSON(params) {
+        return new ExecArgCW20AdapterRedeemAndTransfer(params);
+    }
+    toData() {
+        const { params } = this;
+        return {
+            recipient: params.recipient,
+        };
+    }
+    toExecData() {
+        return dataToExecData('redeem_and_transfer', this.toData());
+    }
+}
+//# sourceMappingURL=ExecArgCW20AdapterRedeemAndTransfer.js.map

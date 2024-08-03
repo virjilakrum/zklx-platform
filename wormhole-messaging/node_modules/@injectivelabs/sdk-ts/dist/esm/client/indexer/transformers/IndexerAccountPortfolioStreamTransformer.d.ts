@@ -1,0 +1,13 @@
+import { InjectivePortfolioRpc } from '@injectivelabs/indexer-proto-ts';
+/**
+ * @category Indexer Stream Transformer
+ */
+export declare class IndexerAccountPortfolioStreamTransformer {
+    static accountPortfolioStreamCallback: (response: InjectivePortfolioRpc.StreamAccountPortfolioResponse) => {
+        type: string;
+        denom: string;
+        amount: string;
+        subaccountId: string;
+    };
+}
+//# sourceMappingURL=IndexerAccountPortfolioStreamTransformer.d.ts.map

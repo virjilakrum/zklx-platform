@@ -1,0 +1,1 @@
+{"version":3,"file":"transformer.d.ts","sourceRoot":"","sources":["../../../../../src/client/wasm/nameservice/transformer.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,yBAAyB,EAAE,MAAM,UAAU,CAAA;AAGpD,qBAAa,8BAA8B;IACzC,MAAM,CAAC,wCAAwC,CAC7C,QAAQ,EAAE,yBAAyB;IAOrC,MAAM,CAAC,0CAA0C,CAC/C,QAAQ,EAAE,yBAAyB;IAOrC,MAAM,CAAC,oCAAoC,CACzC,QAAQ,EAAE,yBAAyB;CAMtC"}

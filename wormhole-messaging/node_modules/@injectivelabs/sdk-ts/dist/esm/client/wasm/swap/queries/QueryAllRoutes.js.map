@@ -1,0 +1,1 @@
+{"version":3,"file":"QueryAllRoutes.js","sourceRoot":"","sources":["../../../../../../src/client/wasm/swap/queries/QueryAllRoutes.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,qBAAqB,CAAA;AACnD,OAAO,EAAE,QAAQ,EAAE,MAAM,mBAAmB,CAAA;AAM5C,MAAM,OAAO,cAAe,SAAQ,aAAuC;IACzE,SAAS;QACP,OAAO,QAAQ,CAAC,EAAE,cAAc,EAAE,EAAE,EAAE,CAAC,CAAA;IACzC,CAAC;CACF"}

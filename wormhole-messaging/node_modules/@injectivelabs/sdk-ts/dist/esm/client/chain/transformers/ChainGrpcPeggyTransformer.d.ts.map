@@ -1,0 +1,1 @@
+{"version":3,"file":"ChainGrpcPeggyTransformer.d.ts","sourceRoot":"","sources":["../../../../../src/client/chain/transformers/ChainGrpcPeggyTransformer.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAE,MAAM,gBAAgB,CAAA;AAClD,OAAO,EAAE,0BAA0B,EAAE,MAAM,8BAA8B,CAAA;AAEzE;;GAEG;AACH,qBAAa,yBAAyB;IACpC,MAAM,CAAC,kCAAkC,CACvC,QAAQ,EAAE,0BAA0B,CAAC,mBAAmB,GACvD,iBAAiB;CA+BrB"}
