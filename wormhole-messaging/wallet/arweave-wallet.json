@@ -1,1 +1,11 @@
-  69hzR6hK483qHF0CuqlgbAA9_M8VpNVALZZmuk64AP8
+{
+  "kty": "RSA",
+  "n": "publicKeyBase64",
+  "e": "AQAB",
+  "d": "privateKeyBase64",
+  "p": "pBase64",
+  "q": "qBase64",
+  "dp": "dpBase64",
+  "dq": "dqBase64",
+  "qi": "qiBase64"
+}
